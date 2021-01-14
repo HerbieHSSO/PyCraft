@@ -1,2 +1,2 @@
 # PyCraft
-sfsd
+Make a Minecraft's Mod with Python
